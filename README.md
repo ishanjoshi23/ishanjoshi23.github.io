@@ -4,4 +4,4 @@ Welcome to my personal website!
 
 <base target="_blank">
 
-Please visit [ishanjoshi23.github.io](ishanjoshi23.github.io) to view my website!
+Please visit [https://ishanjoshi23.github.io](https://ishanjoshi23.github.io) to view my website!
